@@ -18,13 +18,13 @@ Hi! I'm **Yo_The_Pro19**, a developer with a background in:
 
 ## 🏗️ Projects & Roles
 
-- 🧠 **Developer of** [`XSTR ENGINE`](https://github.com/YoThePro19/ai) & [`CC API`](https://github.com/CrazyCombatMC/CrazyCombatAPI)  
+- 🏢 **Founder & CEO of** [`CrazyCombat Minecraft Server`](https://github.com/CrazycombatMC)
 
   
-- 🧑‍💼 **CEO of** [`CrazyCombat`](https://github.com/CrazycombatMC)  
+- 🧠 **Developer of** [`readingSteps`](https://github.com/readingsteps/readingstepsui)  & [`CC API`](https://github.com/CrazyCombatMC/CrazyCombatAPI)  
 
-
-- 🏢 **Founder & Owner of** [`XSTR Studios`](https://github.com/XSTR-Studios)  
+  
+- 🧑‍💼 **Designer of** [`XSTR ENGINE`](https://github.com/CrazyCombatMC/CrazyCombatAPI) & [`RS logic ENGINE`](https://github.com/YoThePro19/rslogic)
 
 
 ---
@@ -32,7 +32,7 @@ Hi! I'm **Yo_The_Pro19**, a developer with a background in:
 ## 🛠️ APP Info
 
 - **Languages:** python, java, skript
-- **Game Dev Tools:** Spigot, Unreal Engine
+- **Minecraft Software:** purpur, velocity, blockbench
 - **3D & Design:** Fusion 360, orca
 
 ---
